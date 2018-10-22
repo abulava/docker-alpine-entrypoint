@@ -1,5 +1,5 @@
 # Credits to github://v-gu/docker-alpine
-FROM alpine:edge
+FROM alpine:3.8
 MAINTAINER Andrey Bulava <abulava@gmail.com>
 
 ENV LANG=C.utf8 \
